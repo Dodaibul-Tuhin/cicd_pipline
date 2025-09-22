@@ -1,11 +1,3 @@
-fastapi
-uvicorn
-pytest
-httpx
-pydantic
-pytest-asyncio
-requests
-python-multipart
 
 annotated-types==0.7.0
 anyio==4.10.0
